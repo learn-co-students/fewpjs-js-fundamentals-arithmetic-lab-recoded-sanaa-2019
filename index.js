@@ -1,4 +1,4 @@
-num1=32
-num2=32
+num1=31
+num2=31
 let multiply=num1*num2
 // Write your code here
